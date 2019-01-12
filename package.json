@@ -2,7 +2,7 @@
   "name": "music adda",
   "version": "0.1.0",
   "description": "A simple discord bot",
-  "main": "MusicBot.js",
+  "main": "Bot.js",
   "scripts": {
     "test": ""
   },
@@ -11,7 +11,7 @@
     "bot",
     "discordbot"
   ],
-  "author": "iCrawl",
+  "author": "chetan1728",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.1.0",
